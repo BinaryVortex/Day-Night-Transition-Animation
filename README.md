@@ -2,11 +2,11 @@
 
 A smooth day-to-night (and night-to-day) transition animation built with HTML, CSS and JavaScript.
 
-![Demo screenshot](Screenshot 2024-12-09 135107.png)
+![Demo screenshot](https://raw.githubusercontent.com/BinaryVortex/Day-Night-Transition-Animation/main/Screenshot%202024-12-09%20135107.png)
 
 ## Overview
 
-This repository contains a small, lightweight animation that transitions a scene between day and night using only HTML, CSS and a little JavaScript. It's intended as a visual demo and a learning resource for CSS animations, transitions and simple DOM interaction.
+This repository contains a small, lightweight animation that transitions a scene between day and night using only HTML, CSS and a little JavaScript. It's intended as a visual demo and a learning re[...]
 
 ## Features
 
